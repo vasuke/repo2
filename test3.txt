@@ -1,0 +1,12 @@
+ Volume in drive C is Acer
+ Volume Serial Number is A014-04E4
+
+ Directory of C:\Users\vasuk\Desktop\project2
+
+12/05/2019  03:39 PM    <DIR>          .
+12/05/2019  03:39 PM    <DIR>          ..
+12/05/2019  02:42 PM                23 index1.html
+12/05/2019  02:46 PM                 7 test2.txt
+12/05/2019  03:39 PM                 0 test3.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  852,269,760,512 bytes free
